@@ -5,4 +5,4 @@ Tic-Tac-Toe game using React application...
 2) npm install
 3) npm start ( code runs on http://localhost:3000 ).
 
-Checkout live demo on: https://github.com/hani29/tic-tac-toe-react
+Checkout live demo on: https://hani29.github.io/tic-tac-toe-react/
