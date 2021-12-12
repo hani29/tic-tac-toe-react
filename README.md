@@ -1,1 +1,2 @@
-# tic-tac-toe-react
+# Tic-Tac-Toe-AI
+Tic-Tac-Toe game using React
